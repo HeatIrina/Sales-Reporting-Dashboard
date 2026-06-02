@@ -769,3 +769,6 @@ function sendReportByEmail() {
 | Форматирование таблиц | 5–10 минут | 1 секунда |
 | Отправка на email | 2–3 минуты | 2 секунды |
 | **Итого** | **~30 минут** | **~6 секунд** |
+
+## Ссылка
+https://docs.google.com/spreadsheets/d/1tfhWqxakiumaerlr_xf7_bkW-TDZa9JCNnb-vPkefgs/edit?usp=sharing
